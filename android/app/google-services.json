@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "114827541615",
+    "project_id": "visitormanagementproject-8fe46",
+    "storage_bucket": "visitormanagementproject-8fe46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114827541615:android:e71551365153e442d5219a",
+        "android_client_info": {
+          "package_name": "com.example.member_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXlZxhZwRA-V69bq_wa88kYrehL0nFXXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114827541615:android:7b143925d70821e6d5219a",
+        "android_client_info": {
+          "package_name": "com.example.security_guard_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXlZxhZwRA-V69bq_wa88kYrehL0nFXXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114827541615:android:e1f53bbd99d9d82dd5219a",
+        "android_client_info": {
+          "package_name": "com.example.securityguardapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXlZxhZwRA-V69bq_wa88kYrehL0nFXXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
